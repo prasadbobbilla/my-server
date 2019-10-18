@@ -1,0 +1,24 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "This is a sample node js app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasadbobbilla/my-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "author": "Saiprasad bobbilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasadbobbilla/my-server/issues"
+  },
+  "homepage": "https://github.com/prasadbobbilla/my-server#readme"
+}
